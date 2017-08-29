@@ -1,0 +1,6 @@
+mix.delay_ms = 30
+transmit.codec_type = 96
+sample.bytes = 2
+sample.rate  = 32000
+sample.num_channels = 1
+

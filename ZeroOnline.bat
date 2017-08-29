@@ -1,0 +1,1 @@
+start ZeroOnline.exe zerodios..

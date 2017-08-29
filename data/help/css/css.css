@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+* {	font-family:tahoma;
+	font-size:10px;
+	}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	color:#75C0E8;
+}
+.zt1 { color:#FFFF00;font-family:tahoma;font-size:11px;}
+.zt2 { color:#FFDC00;font-family:tahoma;font-size:11px;}
+.STYLE1 {color: #ff5050}
+.STYLE2 {color: #5dff1d}
+.STYLE3 {color: #fc99ff}
+.STYLE4 {color: #f7ff07}
+.STYLE5 {color: #24f9a2}
+.STYLE6 {color: #e1e1e1}
+.STYLE7 {color: #ffd800}
+.STYLE8 {color: #FFFF00}
+body{
+	scrollbar-face-color:#1B273D;
+	scrollbar-highlight-color:#ACBCDA;
+	scrollbar-3dlight-color:#283959;
+	scrollbar-darkshadow-color:#162032;
+	scrollbar-Shadow-color:#0D121C;
+	scrollbar-arrow-color:#6280BA;
+	scrollbar-track-color:#334973; 
+}
+.STYLE9 {color: #5dff1d; line-height: 14pt;}
+.STYLE26 {color: #00CFFE}
+.tishi {color: #E08A34}

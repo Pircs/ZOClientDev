@@ -1,0 +1,198 @@
+// 标题栏
+[BG_Title]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/BindTitle.jpg
+
+
+// 最小化按钮
+[BTN_Minimize]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/LeastBtnNormal.jpg
+Frame1=data2/interface/BindAccount/LeastBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/LeastBtnClick.jpg
+
+// 关闭按钮
+[BTN_Close]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/CloseBtnNormal.jpg
+Frame1=data2/interface/BindAccount/CloseBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/CloseBtnClick.jpg
+
+// 帐号列表窗口背景
+[BG_AccountList]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/Bind2BG.bmp
+
+// 未绑定帐号窗口背景
+[BG_NotBind]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/Bind3BG.bmp
+
+// 绑定按钮
+[BTN_Bind]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/BindBtnNormal.jpg
+Frame1=data2/interface/BindAccount/BindBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/BindBtnClick.jpg
+
+// 解除绑定
+[BTN_RemoveBind]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/UnBindBtnNormal.jpg
+Frame1=data2/interface/BindAccount/UnBindBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/UnBindBtnClick.jpg
+
+// 取消
+[BTN_Cancel]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/CancelBtnNormal.jpg
+Frame1=data2/interface/BindAccount/CancelBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/CancelBtnClick.jpg
+
+// 生成窗口背景1
+[BG_GenFile1]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/Bind1BG.jpg
+
+// 浏览按钮
+[BTN_Browser]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/ScanBtnNormal.jpg
+Frame1=data2/interface/BindAccount/ScanBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/ScanBtnClick.jpg
+
+// 进度条
+[BG_Progress]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/Plan1.jpg
+
+// 生成按钮
+[BTN_Build]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/CreateBtnNormal.jpg
+Frame1=data2/interface/BindAccount/CreateBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/CreateBtnClick.jpg
+
+// 绑定其它按钮
+[BTN_BindNew]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/BindOtherBtnNormal.jpg
+Frame1=data2/interface/BindAccount/BindOtherBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/BindOtherBtnClick.jpg
+
+// 退出按钮
+[BTN_Exit]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/ExitBtnNormal.jpg
+Frame1=data2/interface/BindAccount/ExitBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/ExitBtnClick.jpg
+
+// 向导图片
+[BG_Tip]
+FrameAmount=6
+Frame0=data2/interface/BindAccount/SafetydoorBG.jpg
+Frame1=data2/interface/BindAccount/FourheroBG.jpg
+Frame2=data2/interface/BindAccount/AccountsBG.jpg
+Frame3=data2/interface/BindAccount/ChangeBG.jpg
+Frame4=data2/interface/BindAccount/Password3BG.jpg
+Frame5=data2/interface/BindAccount/PasswordfullBG.jpg
+
+// 滑块－上箭头
+[Ver_UpArrow]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/UpBtnEmboss.jpg
+
+// 滑块－下箭头
+[Ver_DownArrow]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/DownBtnEmboss.jpg
+
+// 滑块－滑块
+[Ver_Block]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/DragS.jpg
+
+// 滑块－左箭头
+[Hor_LeftArrow]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/LeftBtnEmboss.jpg
+
+// 滑块－右箭头
+[Hor_RightArrow]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/RightBtnEmboss.jpg
+
+// 滑块－滑块
+[Hor_Block]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/DragH.jpg
+
+// 小角(只需要18*18的小方块就OK)
+[Corner]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/DragSFrame.jpg
+
+// 确认框底框
+[BG_CONFIRM]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/Affirm.jpg
+
+// 确认框-确定
+[CONFIRM_OK]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/ConfirmBtnNormal.jpg
+Frame1=data2/interface/BindAccount/ConfirmBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/ConfirmBtnClick.jpg
+
+// 确认框-取消
+[CONFIRM_CANCEL]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/QCancelBtnNormal.jpg
+Frame1=data2/interface/BindAccount/QCancelBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/QCancelBtnClick.jpg
+
+// 完成
+[COMPLETE]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/CompleteBtnNormal.jpg
+Frame1=data2/interface/BindAccount/CompleteBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/CompleteBtnClick.jpg
+
+// 完成确认底框
+[BG_Finish]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/ConfirmBG.jpg
+
+// 勾选框
+[BTN_Gou]
+FrameAmount=2
+Frame0=data2/interface/BindAccount/Gou1Pic.jpg
+Frame1=data2/interface/BindAccount/Gou2Pic.jpg
+
+// 用户密码输入框
+[BG_UserInput]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/PasswordInputBG.jpg
+
+//生成路径底框
+[BG_Path]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/PathBG.jpg
+
+//进度条底框
+[BG_ProgressBG]
+FrameAmount=1
+Frame0=data2/interface/BindAccount/PlanBG.jpg
+
+// 单选框
+[BTN_Point]
+FrameAmount=2
+Frame0=data2/interface/BindAccount/Select1Pic.jpg
+Frame1=data2/interface/BindAccount/Select2Pic.jpg
+
+// 安装
+[Btn_SetUp]
+FrameAmount=3
+Frame0=data2/interface/BindAccount/SetUpBtnNormal.jpg
+Frame1=data2/interface/BindAccount/SetUpBtnEmboss.jpg
+Frame2=data2/interface/BindAccount/SetUpBtnClick.jpg

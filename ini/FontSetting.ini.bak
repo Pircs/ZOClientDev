@@ -1,0 +1,16 @@
+[guiFont] //界面字体设置
+Font=Font\chatfont\GB13000.ttf //字体路径
+FontSize=12	      //字体大小
+FontShadow=0	      //是否开启字体虚阴影，1开启，0取消
+FontShadowColor=    //字体虚阴影颜色
+shadowoffsetX=0	 //字体虚阴影颜偏移位置x
+shadowoffsetY=0 	//字体虚阴影颜偏移位置y
+[chatFont] //聊天字体设置
+Font=Font\chatfont\GB13000.ttf
+FontSize=12
+FontShadow=0
+shadowoffsetX=0
+shadowoffsetY=0
+FontShadowColor=
+[common]
+Antialias=0
